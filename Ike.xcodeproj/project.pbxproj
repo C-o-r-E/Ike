@@ -18,6 +18,7 @@
 		048928AB181855BA00915F19 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0489288A181855BA00915F19 /* Cocoa.framework */; };
 		048928B3181855BA00915F19 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 048928B1181855BA00915F19 /* InfoPlist.strings */; };
 		048928B5181855BA00915F19 /* IkeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 048928B4181855BA00915F19 /* IkeTests.m */; };
+		048928C518186ECD00915F19 /* menu16-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 048928C418186ECD00915F19 /* menu16-3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		048928B0181855BA00915F19 /* IkeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "IkeTests-Info.plist"; sourceTree = "<group>"; };
 		048928B2181855BA00915F19 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		048928B4181855BA00915F19 /* IkeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IkeTests.m; sourceTree = "<group>"; };
+		048928C418186ECD00915F19 /* menu16-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "menu16-3.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 				04892892181855BA00915F19 /* Ike-Info.plist */,
 				04892893181855BA00915F19 /* InfoPlist.strings */,
 				04892896181855BA00915F19 /* main.m */,
+				048928C418186ECD00915F19 /* menu16-3.png */,
 				04892898181855BA00915F19 /* Ike-Prefix.pch */,
 				04892899181855BA00915F19 /* Credits.rtf */,
 			);
@@ -233,6 +236,7 @@
 				04892895181855BA00915F19 /* InfoPlist.strings in Resources */,
 				048928A3181855BA00915F19 /* Images.xcassets in Resources */,
 				0489289B181855BA00915F19 /* Credits.rtf in Resources */,
+				048928C518186ECD00915F19 /* menu16-3.png in Resources */,
 				048928A1181855BA00915F19 /* MainMenu.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
